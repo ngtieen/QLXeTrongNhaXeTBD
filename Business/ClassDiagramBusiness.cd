@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Business.fQuanLyBU">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>fQuanLyBU.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Business.KhuXeBU">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>KhuXeBU.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Business.LoaiXeBU">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAEEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LoaiXeBU.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Business.QlDoanhThu">
+    <Position X="9.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAgAAIAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>QlDoanhThu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Business.QLKhuXeBU">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>QLKhuXeBU.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Business.QLKiemTra">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>QLKiemTra.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Business.QLLoaiXeBU">
+    <Position X="2.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>QLLoaiXeBU.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Business.QLTaiKhoanBU">
+    <Position X="4" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>QLTaiKhoanBU.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Business.QLTheXeBU">
+    <Position X="7.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAQAAAAAAIAAAEAAAAAAAAAAAAAAAAECAA=</HashCode>
+      <FileName>QLTheXeBU.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Business.QLXeTrongNhaXeBU">
+    <Position X="5.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAICAAAAAAAwAAAgAAQAAAAABAAAA=</HashCode>
+      <FileName>QLXeTrongNhaXeBU.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Business.TaiKhoanBU">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAQAAAAAAAAAAABAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>TaiKhoanBU.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Business.TheXeBU">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIASAACAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>TheXeBU.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Business.XeTrongNhaXeBU">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAIFAEAACgAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>XeTrongNhaXeBU.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="Business.IXeBU">
+    <Position X="11" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAIFAEAACgAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IXeBU.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

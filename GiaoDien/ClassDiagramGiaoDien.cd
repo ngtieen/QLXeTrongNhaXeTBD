@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GiaoDien.fDangNhap">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAACAAADAAAACAAAACABAACAAAABAAAQAgAAA=</HashCode>
+      <FileName>DangNhap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GiaoDien.fAdmin">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ggABADAAACgAiHAABADAGBECAIAQgIAECCAEABCBBgA=</HashCode>
+      <FileName>fAdmin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GiaoDien.fQuanLy">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AyQABCAARCoAsBAEAACCAAADSAAABAAAACFAQogEADA=</HashCode>
+      <FileName>fQuanLy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GiaoDien.fSuaThongTinXe">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAiEAABAAAACACAgCABgAAAAAECAAAIAgBgA=</HashCode>
+      <FileName>fSuaThongTinXe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GiaoDien.fXeRa">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AECAQEEEAiAAQBAABACACAACABAAAAIAACAIBAAgAgA=</HashCode>
+      <FileName>fXeRa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GiaoDien.Program">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

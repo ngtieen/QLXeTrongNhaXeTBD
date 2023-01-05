@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DataBase.HDT.FQuanLy_HDT">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQBIAAAAAAgAgAAAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HDT\FQuanLy_HDT.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataBase.HDT.KhuXeDAHDT">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HDT\KhuXeDAHDT.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataBase.HDT.LoaiXeDa_HDT">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HDT\LoaiXeDa_HDT.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataBase.HDT.TaiKhoanDA_HDT">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAQAAAAAAACAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>HDT\TaiKhoanDA_HDT.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataBase.HDT.TheXeDA_HDT">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HDT\TheXeDA_HDT.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataBase.HDT.XeTrongNhaXeDA_HDT">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAYBIAAAAAAgAgAAAAAgAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HDT\XeTrongNhaXeDA_HDT.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataBase.DoanhThu">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAgAAAAAAQAAAAABAAAAAQAAAEAAAAAA=</HashCode>
+      <FileName>DoanhThu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataBase.DataProvider">
+    <Position X="11" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAEBAAAABQAQAAAAAAAA=</HashCode>
+      <FileName>DataProvider.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataBase.FQuanLy">
+    <Position X="9.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>FQuanLy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataBase.KhuXeDA">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>KhuXeDA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataBase.LoaiXeDA">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAEAAAIBAAIAAQABAAAEAAAA=</HashCode>
+      <FileName>LoaiXeDA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataBase.TaiKhoanDA">
+    <Position X="7.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAEgAgAABAAAAAQAAAACAAAAA=</HashCode>
+      <FileName>TaiKhoanDA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataBase.TheXeDA">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAIAAAAAAEgAIBAAAAAQBAAAAAAAEA=</HashCode>
+      <FileName>TheXeDA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataBase.XeTrongNhaXeDA">
+    <Position X="5.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAYAAAAAAAgwBAAgAAQAAAAACAAAA=</HashCode>
+      <FileName>XeTrongNhaXeDA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
